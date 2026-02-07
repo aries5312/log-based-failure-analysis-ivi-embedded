@@ -43,4 +43,10 @@ framework to address these limitations.
 
 ## Disclaimer
 This repository represents ongoing academic research. Content may evolve
-throughout the PhD lifecycle.
+throughout the DPP lifecycle.
+
+## Intellectual Property Notice
+This repository documents ongoing DPP research. Framework design and content
+are shared for academic transparency. Reuse or adaptation should include proper
+citation.
+
