@@ -1,5 +1,11 @@
 # Use Cases for Log-Based Failure Analysis Framework
 
+## Use Case Mapping Diagram
+
+![Mapping of Use Cases to Framework](images/mapping-use-cases-framework.png)
+
+*Figure 1: Mapping of industrial use cases to framework components and resulting benefits.*
+
 ## Purpose
 The use cases demonstrate how the proposed framework can be applied in
 embedded infotainment (IVI) systems under industrial scenarios. They illustrate
