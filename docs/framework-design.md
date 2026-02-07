@@ -1,5 +1,9 @@
 # Framework Design
 
+## Framework Architecture Diagram
+
+![Log-Based Failure Analysis Framework](images/framework-architecture.png)
+
 ## Overview
 This section presents the proposed software engineering framework for predicting
 and diagnosing failures in embedded infotainment (IVI) systems using log-based
